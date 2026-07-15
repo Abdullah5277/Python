@@ -1,1 +1,0 @@
-print(a3.ndim)
